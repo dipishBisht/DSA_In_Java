@@ -7,19 +7,24 @@ package recurssion;
 
 public class fibonacci {
     public static void main(String[] args) {
+        // Number
         int n = 5;
 
+        // Find Answer
         int ans = helper(n);
 
+        // Print answer
         System.out.println((ans));
     }
 
     public static int helper(int num) {
+        // Base case
         if (num == 0)
             return 0;
         if (num == 1)
             return 1;
 
+        // Do your work and divide in sub problem
         return helper(num - 1) + helper(num - 2);
     }
 }
