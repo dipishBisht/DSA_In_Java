@@ -27,4 +27,10 @@
 8. Find the total occurance of the given number and return the array of index's where the number occurs.
     findNumberOccurance.java
 
-9. Find list of binary strings of n size which should not contain consicutive 1    
+9. Find list of binary strings of n size which should not contain consicutive 1.
+    generateBinaryStrings.java
+    (https://www.geeksforgeeks.org/problems/generate-all-binary-strings/0)
+
+10. Generate all n pairs combination of well formed parentheses.
+    generateParentheses.java
+    (https://leetcode.com/problems/generate-parentheses/description/)
