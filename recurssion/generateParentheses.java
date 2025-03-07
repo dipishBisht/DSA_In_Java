@@ -27,6 +27,8 @@ public class generateParentheses {
         for (String s : list) {
             System.out.println(s);
         }
+
+        sn.close();
     }
 
     public static void generateHelper(List<String> list, int open, int close, String s) {
