@@ -3,7 +3,7 @@
 //? If the index gets out of the array return the most largest value exist which is Math.MAX_VALUE and at each index check which
 //? value is smaller and return that.
 
-package recurssion;
+package recursion;
 
 public class findMinimum {
     public static void main(String[] args) {

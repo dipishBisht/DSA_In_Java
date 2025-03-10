@@ -3,6 +3,9 @@
 //? Its two pointer approach start from 0 and end from the length of array loops till left exceds right and find the arear and 
 //? return the maximum area and if value of left is greater do right-- else left++.
 
+
+package array;
+
 public class containerWithMostWater {
 
     public static void main(String[] args) {

@@ -3,6 +3,9 @@
 //? Stored the number in the temp variable and then loop through the number gets its last digit and store it in first place at the
 //? end return true if both the string matches else false. 
 
+
+package number;
+
 public class pallindrome {
     public static void main(String[] args) {
         // Eg: number

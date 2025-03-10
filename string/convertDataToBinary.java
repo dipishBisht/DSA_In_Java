@@ -3,6 +3,9 @@
 //? Seperate year, month and day and then convert them in number and then to binary number and then append to string builder also
 //? append - after year binary string and then return the string builder
 
+
+package string;
+
 public class convertDataToBinary {
     public static void main(String[] args) {
         // Eg: date

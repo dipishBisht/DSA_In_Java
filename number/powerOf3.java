@@ -3,6 +3,9 @@
 //? If the number is 0 or less than 0 return false. divide the number by 3 untill it is divisible at the end if the number
 //? becames 1 then return true else false.
 
+
+package number;
+
 public class powerOf3 {
     public static void main(String[] args) {
         // Eg: number

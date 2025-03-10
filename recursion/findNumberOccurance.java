@@ -3,7 +3,7 @@
 //? First we need to find how many occurance of the given number are in the array adn then create another array of that size and
 //? then create a function that insert the index in that array where the number occured.
 
-package recurssion;
+package recursion;
 
 import java.util.*;
 
