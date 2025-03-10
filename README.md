@@ -11,7 +11,7 @@
     (https://leetcode.com/problems/fibonacci-number/description/)
 
 4. Find if the number is power of 3.
-    numberpowerOf3.java
+    number/powerOf3.java
     (https://leetcode.com/problems/power-of-three/description/)
 
 5. Container with most water.
