@@ -44,5 +44,14 @@
 13. Print increasing number from 1 -> n.
     recursion/printIncreasing.java
 
-12. Find if the array contain any dublicate elements or not.
+14. Find if the array contain any dublicate elements or not.
     array/dublicateElements.java
+
+15. Find sum of nth natural numner
+    recursion/sumOfNNaturalNumber.java
+
+16. Find nth power of the number.
+    recursion/nPower.java
+
+17. Print increasing decreaseing number from n.
+    recursion/printIncreasingDecreasing.java
