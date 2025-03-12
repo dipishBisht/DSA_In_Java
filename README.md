@@ -55,3 +55,12 @@
 
 17. Print increasing decreaseing number from n.
     recursion/printIncreasingDecreasing.java
+
+18. Find if the string is pallindrome or not.
+    recursion/isPallindrome.java    
+
+19. Rever the array
+    recursion/reverseArray.java
+
+20. Is the number power of 4.
+    recursion/powerOf4.java    
