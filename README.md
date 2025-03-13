@@ -64,3 +64,6 @@
 
 20. Is the number power of 4.
     recursion/powerOf4.java    
+
+21. Find all subsets in array.
+    recursion/subsetsInArray.java    
