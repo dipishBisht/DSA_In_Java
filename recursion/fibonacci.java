@@ -14,14 +14,14 @@ public class fibonacci {
         int ans = helper(n);
 
         // Print answer
-        System.out.println((ans));
+        System.out.println(ans);
     }
 
     public static int helper(int num) {
         // Base case
-        if (num == 0)
-            return 0;
         if (num == 1)
+            return 0;
+        if (num == 2)
             return 1;
 
         // Do your work and divide in sub problem

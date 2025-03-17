@@ -60,6 +60,7 @@ public class permutation {
             }
 
             ans.add(temp);
+            return;
         }
 
         for (int i = idx; i < nums.length; i++) {
