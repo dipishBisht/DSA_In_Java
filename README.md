@@ -64,6 +64,12 @@
 
 20. Is the number power of 4.
     recursion/powerOf4.java    
+    (https://leetcode.com/problems/power-of-four/description/)
 
 21. Find all subsets in array.
-    recursion/subsetsInArray.java    
+    recursion/subsetsInArray.java
+    (https://leetcode.com/problems/subsets/description/)
+
+22. Permutation in array.
+    permutation.java
+    (https://leetcode.com/problems/permutations/description/)        
