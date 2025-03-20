@@ -79,4 +79,10 @@
     (https://leetcode.com/problems/baseball-game/description/)
 
 24. Tower of hanoi.
-    recursion/towerOfHanoi.java     
+    recursion/towerOfHanoi.java
+
+25. Find first occurance of a number in an array
+    recursion/findFirstOccurance.java
+    
+26. Find first occurance of a number in an array
+    recursion/findLastOccurance.java
