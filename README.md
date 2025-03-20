@@ -72,4 +72,11 @@
 
 22. Permutation in array.
     permutation.java
-    (https://leetcode.com/problems/permutations/description/)        
+    (https://leetcode.com/problems/permutations/description/)
+
+23. Baseball Game.
+    array/baseball.java
+    (https://leetcode.com/problems/baseball-game/description/)
+
+24. Tower of hanoi.
+    recursion/towerOfHanoi.java     
