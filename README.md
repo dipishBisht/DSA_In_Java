@@ -86,3 +86,7 @@
     
 26. Find first occurance of a number in an array
     recursion/findLastOccurance.java
+
+27. House Robber
+    recursion/houseRobber.java
+    (https://leetcode.com/problems/house-robber/description/)
