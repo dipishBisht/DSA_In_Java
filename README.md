@@ -90,3 +90,11 @@
 27. House Robber
     recursion/houseRobber.java
     (https://leetcode.com/problems/house-robber/description/)
+
+28. Unique Permutation
+    recursion/uniquePermutation.java
+    (https://leetcode.com/problems/permutations-ii/description/)
+
+29. Unique Subsets
+    recursion/uniqueSubsets.java
+    (https://leetcode.com/problems/subsets-ii/description/)        
