@@ -2,7 +2,6 @@
 
 //? Take input and in function if n == 0 return then print the number and call the function by passing n-1. 
 
-package recursion;
 
 import java.util.Scanner;
 

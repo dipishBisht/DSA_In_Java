@@ -2,7 +2,6 @@
 
 //? if number becomes 1 then return true, if number becomes <=0 or number % 4 !=0 return false then return fn(num/4) 
 
-package recursion;
 
 import java.util.Scanner;
 

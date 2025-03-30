@@ -3,7 +3,6 @@
 //? Base case when n==0 return 1, cf(n, p/2) half and store in a varibale at end cheeck is the pow is even or odd if even return
 // ? ans * ans else ans * ans * n.
 
-package recursion;
 
 import java.util.Scanner;
 

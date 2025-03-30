@@ -5,7 +5,6 @@
 //?  array, call the function to climb 1 stair function(arr, n-1), for climbing 2 stairs if n>=2 then function(arr, n-2), after
 //? getting answer for that stirs store it in array arr[n]=ans, and at end return ans.
 
-package recursion;
 
 import java.util.*;
 

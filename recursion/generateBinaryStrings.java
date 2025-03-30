@@ -4,7 +4,6 @@
 //? and return, then we check the edge case when the strig size is 0 then add both 1 and 0 to string else add the 0 but for 1 
 //? check if the last digit is 1 or not.
 
-package recursion;
 
 import java.util.ArrayList;
 

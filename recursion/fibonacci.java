@@ -3,7 +3,6 @@
 //? We know f(0)=0 and f(1)=1 and f(n)=f(n-1)+f(n-2) so if num is 0 then return 0, if num is 1 return 1 and if other number then
 //? return the sum of f(n-1)+f(n-2)
 
-package recursion;
 
 public class fibonacci {
     public static void main(String[] args) {

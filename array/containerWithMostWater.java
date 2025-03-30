@@ -4,8 +4,6 @@
 //? return the maximum area and if value of left is greater do right-- else left++.
 
 
-package array;
-
 public class containerWithMostWater {
 
     public static void main(String[] args) {

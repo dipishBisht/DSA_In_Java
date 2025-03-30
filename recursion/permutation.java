@@ -11,7 +11,6 @@
 //? of nums and swap each value in each place and call the function and while coming back swap them again so they came back to 
 //? their original place. 
 
-package recursion;
 
 import java.util.*;
 

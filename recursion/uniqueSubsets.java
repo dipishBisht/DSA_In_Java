@@ -4,7 +4,6 @@
 // ?  function without passing a number that time we will runs a while loop and check if the current number is equal to its next
 // ?  number so do idx++. 
 
-package recursion;
 
 import java.util.*;
 

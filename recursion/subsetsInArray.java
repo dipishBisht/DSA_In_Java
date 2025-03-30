@@ -1,4 +1,8 @@
-package recursion;
+// TODO Find all subsets of array of numbers.
+
+// ? Base case - when idx is == array length then add the subsets in the result array then at each index of array we have two
+// ? options first include the number and second dont include, so add number in subset and call the function with index +1, then
+// ? remove the number while backtracking then call the function while not including number and index+1.
 
 import java.util.*;
 
@@ -41,7 +45,7 @@ public class subsetsInArray {
             return;
         }
 
-        // Do your work and divide into sub problems 
+        // Do your work and divide into sub problems
 
         subSets.add(arr[idx]);
         findSubsets(arr, result, subSets, idx + 1);

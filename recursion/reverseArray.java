@@ -3,7 +3,6 @@
 //? Tale input of size of array and then numbers of array then in base condition when left and right pointer pass each other then
 //? stop then at each call swaap numbers at the index then call the fn with left + 1 and right - 1.   
 
-package recursion;
 
 import java.util.Scanner;
 

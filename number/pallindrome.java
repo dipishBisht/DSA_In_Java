@@ -4,8 +4,6 @@
 //? end return true if both the string matches else false. 
 
 
-package number;
-
 public class pallindrome {
     public static void main(String[] args) {
         // Eg: number

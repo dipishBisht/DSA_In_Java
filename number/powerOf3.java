@@ -4,8 +4,6 @@
 //? becames 1 then return true else false.
 
 
-package number;
-
 public class powerOf3 {
     public static void main(String[] args) {
         // Eg: number

@@ -4,7 +4,6 @@
 // ? return it. Then we have two option dont rob the house and idex+1 and rob the house get the money and rob next adjacent house
 // ? and store the greater number between option1 and option2 and store it in dp array and return the arr[idx].
 
-package recursion;
 
 import java.util.*;
 

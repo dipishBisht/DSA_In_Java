@@ -2,7 +2,6 @@
 
 //? If n ==1 return 1 and return number + func(n-1).
 
-package recursion;
 
 import java.util.Scanner;
 

@@ -3,7 +3,6 @@
 //? Check if the pointers and met or cross each other ifit is then return true then check if the character at left and right
 //? pointer are != then return false, and at return at fn(s, left, right). 
 
-package recursion;
 
 import java.util.Scanner;
 

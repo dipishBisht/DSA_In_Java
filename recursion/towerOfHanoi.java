@@ -1,9 +1,9 @@
 // TODO  There are some disks and you have 3 towers you have to move all disks from tower 1 to 2 with the help of 3 and have to
 // todo: print the instructions of that rules are you cannot move 2 disk at a time greater disk cannot come to its smaller
 
-// ?
+// ? Base case when all disks finished then return and move all disk one by one from tower 1 to tower 3 with the help the tower 2
+// ? then manually set the last disk in tower 2 then send all disk one by one from tower 3 totower 1 with tower 1.
 
-package recursion;
 
 import java.util.Scanner;
 

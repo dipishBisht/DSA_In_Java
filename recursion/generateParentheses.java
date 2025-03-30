@@ -3,7 +3,6 @@
 //? base condition - if open and close both are 0 so add the string in the list and return, check if the open > 0 then call the
 //?  function itself with open-1 and string+"(", then check if close > open then close -1 and string+")".
 
-package recursion;
 
 import java.util.*;
 

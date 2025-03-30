@@ -4,8 +4,6 @@
 //? append - after year binary string and then return the string builder
 
 
-package string;
-
 public class convertDataToBinary {
     public static void main(String[] args) {
         // Eg: date

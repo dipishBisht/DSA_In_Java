@@ -6,7 +6,6 @@
 //? the last digit from result array, if D then multiply last digit by 2 and push and in else when is number then convert the
 //? number string to number and push in the array.  
 
-package array;
 
 import java.util.ArrayList;
 

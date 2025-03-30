@@ -3,7 +3,6 @@
 // ? Take all inouts, in base case in the idx is equal to array length then return -1. Then check if the current number is the
 // ? number to fnd then return index then return the function()with index+1.
 
-package recursion;
 
 import java.util.Scanner;
 

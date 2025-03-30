@@ -4,8 +4,6 @@
 //? i=1 -> array length and compare arr[i] == arr[i-1] if true store in boolean varible and at the end print the boolean value.  
 
 
-package array;
-
 import java.util.*;
 
 public class dublicateElements {
