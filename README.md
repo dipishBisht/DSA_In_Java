@@ -97,4 +97,12 @@
 
 29. Unique Subsets
     recursion/uniqueSubsets.java
-    (https://leetcode.com/problems/subsets-ii/description/)        
+    (https://leetcode.com/problems/subsets-ii/description/)
+
+30. Combinations
+    recursion/combinations.java
+    (https://leetcode.com/problems/combinations/description/)
+
+31. Combinations sum 1
+    recursion/combinationSum1.java
+    (https://leetcode.com/problems/combination-sum/description/)    
