@@ -1,3 +1,11 @@
+// TODO Find unique 3 digit even numbers in which 1 number can used 1 time.
+
+// ? base case when size of stringbuilder is 3 and if not starts with 0 and if the number is even number then and in result and
+// ? return, then loop from i = 0 -> array length and first in isUsed array check is the number used if yes then continue if not
+// ? then move ahead then check if idx > 0 and current number == next numberm, and is used then also continue, then set isUsed to
+// ? true and append the number in string builder and call the function and then while backtracking remove the last number and
+// ? set isUsed to false.  
+
 import java.util.*;
 
 public class uniqueEvenNumber {
