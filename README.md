@@ -105,4 +105,16 @@
 
 31. Combinations sum 1
     recursion/combinationSum1.java
-    (https://leetcode.com/problems/combination-sum/description/)    
+    (https://leetcode.com/problems/combination-sum/description/)
+
+32. Combinations sum 2
+    recursion/combinationSum2.java
+    (https://leetcode.com/problems/combination-sum-ii/description/)
+
+33. Combinations sum 3
+    recursion/combinationSum3.java
+    (https://leetcode.com/problems/combination-sum-iii/description/)
+
+34. Unique 3 digits even numbers
+    recursion/uniqueEvenNumber.java
+    (https://leetcode.com/problems/unique-3-digit-even-numbers/)      
