@@ -117,4 +117,10 @@
 
 34. Unique 3 digits even numbers
     recursion/uniqueEvenNumber.java
-    (https://leetcode.com/problems/unique-3-digit-even-numbers/)      
+    (https://leetcode.com/problems/unique-3-digit-even-numbers/description/)
+
+35. Find all idxs of array with the given number
+    recursion/findAllOccurance.java
+
+36. Find all subsequence in the string.
+    recursion/subsequenceInString.java        
