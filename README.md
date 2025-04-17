@@ -126,4 +126,6 @@
     recursion/subsequenceInString.java     
 
 37. Find all combination of keypad mobile number
-    recursion/keypadCombination.java       
+    recursion/keypadCombination.java    
+
+38. Count equal and divisible pair in an array.       
