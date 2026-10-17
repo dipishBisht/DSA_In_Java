@@ -8,11 +8,12 @@ My journey of learning and practicing **Data Structures and Algorithms using Jav
 |-----|--------|------------------|
 | [Day 1](./Day-1/README.md) | Java Basics, Functions, If-Else | 3 |
 | [Day 2](./Day-2/README.md) | Loops, Arrays | 6 |
+| [Day 3](./Day-3/README.md) | Practice | 1 |
 
 ## 📊 Overall Progress
 
-- **Days Completed:** 2
-- **Questions Solved:** 9
+- **Days Completed:** 3
+- **Questions Solved:** 10
 - **Language:** Java
 
 ## 🗂️ Topics Covered
