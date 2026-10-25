@@ -10,11 +10,12 @@ My journey of learning and practicing **Data Structures and Algorithms using Jav
 | [Day 2](./Day-2/README.md) | Loops, Arrays | 6 |
 | [Day 3](./Day-3/README.md) | Nested Loop, Patterns  | 10 |
 | [Day 4](./Day-4/README.md) | Practice  | 3 |
+| [Day 5](./Day-5/README.md) | Time & Space Complexity and Leetcode Quesions | 2 |
 
 ## 📊 Overall Progress
 
-- **Days Completed:** 4
-- **Questions Solved:** 22
+- **Days Completed:** 5
+- **Questions Solved:** 24
 - **Language:** Java
 
 ## 🗂️ Topics Covered
@@ -25,6 +26,7 @@ My journey of learning and practicing **Data Structures and Algorithms using Jav
 - Loops
 - Arrays
 - Nested Loop
+- Time & Space Complexity
 
 ## 🎯 Goal
 
