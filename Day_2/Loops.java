@@ -3,21 +3,21 @@ package Day_2;
 public class Loops {
     public static void main(String args[]) {
 
-        //? Simple for Loop
+        // ? Simple for Loop
         /*
          * for (int i = 1; i <= 5; i++) {
          * System.out.println(i);
          * }
          */
 
-        //? Loop with function
+        // ? Loop with function
         /*
          * for (int i = 0; i < 5; i++) {
          * checkEvenOrOdd(i);
          * }
          */
 
-        //? Loop with array
+        // ? Loop with array
         /*
          * // int[] nums = new int[5];
          * int[] nums = { 1, 50, -8, 0, -453, 87 };
@@ -27,18 +27,19 @@ public class Loops {
          * }
          */
 
-        //? While Loop
+        // ? While Loop
         /*
-        * int i = 0;
-        
-        * while (i < 5) {
-        *    System.out.println(i);
-        *    
-        *    i++;
-        * }
-        */
+         * int i = 0;
+         * 
+         * while (i < 5) {
+         * System.out.println(i);
+         * 
+         * i++;
+         * }
+         */
     }
 
+    // + Function to check number is positive or negative
     public static void checkPositiveOrNegative(int n) {
         if (n == 0)
             System.out.println(n + " is neither postive or negative");
@@ -49,6 +50,7 @@ public class Loops {
 
     }
 
+    // + Function to check whether the number is even or odd
     public static void checkEvenOrOdd(int n) {
         if (n == 0)
             System.out.println(n + " is neither even or odd");

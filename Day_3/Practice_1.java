@@ -9,7 +9,7 @@ public class Practice_1 {
         System.out.println(secondGreatest);
     }
 
-    // Function to find second largest number in an array
+    // + Function to find second largest number in an array
     public static int findSecondGreatest(int[] arr) {
 
         int greatest = arr[0];

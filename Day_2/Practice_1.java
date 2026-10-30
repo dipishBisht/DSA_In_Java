@@ -17,16 +17,16 @@ public class Practice_1 {
          */
 
         /*
-        * int[] arr3 = { 12, 4, -65, 23, 35, 41 };
-        * int largest = findLargestNumber(arr3);
-        * int smallest = findSmallestNumber(arr3);
-        * System.out.println(largest);
-        * System.out.println(smallest);
-        */
+         * int[] arr3 = { 12, 4, -65, 23, 35, 41 };
+         * int largest = findLargestNumber(arr3);
+         * int smallest = findSmallestNumber(arr3);
+         * System.out.println(largest);
+         * System.out.println(smallest);
+         */
     }
 
-    // Function that search for element in an array and return the index of it, if
-    // number does not exist then return -1
+    // + Function that search for element in an array and return the index of it, if
+    // + number does not exist then return -1
     public static int searchElement(int[] arr, int element) {
 
         for (int i = 0; i < arr.length; i++) {
@@ -37,7 +37,7 @@ public class Practice_1 {
         return -1;
     }
 
-    // Function that returns the number of negative numbers in an array
+    // + Function that returns the number of negative numbers in an array
     public static int countNegative(int[] arr) {
         int count = 0;
 
@@ -49,7 +49,7 @@ public class Practice_1 {
         return count;
     }
 
-    // Function that return the largest number in an array
+    // + Function that return the largest number in an array
     public static int findLargestNumber(int[] arr) {
         int largest = arr[0];
 
@@ -61,7 +61,7 @@ public class Practice_1 {
         return largest;
     }
 
-    // Function that return the smallest number in an array
+    // + Function that return the smallest number in an array
     public static int findSmallestNumber(int[] arr) {
         int smallest = arr[0];
 

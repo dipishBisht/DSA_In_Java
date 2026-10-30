@@ -14,7 +14,7 @@ public class IfElse {
          */
     }
 
-    // Checks whether the given number is negative or not
+    // + Checks whether the given number is negative or not
     public static void isNegativeNumber(int num) {
 
         if (num < 0)
@@ -24,7 +24,7 @@ public class IfElse {
 
     }
 
-    // Checks if the person with that age is eligible to vote or not
+    // + Checks if the person with that age is eligible to vote or not
     public static void isEligibleToVote(int age) {
 
         if (age > 18)

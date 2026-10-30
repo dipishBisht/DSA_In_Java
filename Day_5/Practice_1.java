@@ -16,7 +16,7 @@ public class Practice_1 {
         System.out.println(missing);
     }
 
-    // Find the single number present in an array
+    // + Find the single number present in an array
     public static int singleNumber(int[] arr) {
 
         Map<Integer, Integer> m = new HashMap<>();
@@ -57,7 +57,7 @@ public class Practice_1 {
          */
     }
 
-    // 2nd way to find a single number present in an array
+    // + 2nd way to find a single number present in an array
     public static int singleNumber2(int[] arr) {
         int ans = 0;
 
@@ -78,7 +78,7 @@ public class Practice_1 {
          */
     }
 
-    // Find missing number in an array
+    // + Find missing number in an array
     public static int missingNumber(int[] nums) {
         int n = nums.length;
         int sum = n * (n + 1) / 2;
@@ -89,10 +89,10 @@ public class Practice_1 {
 
         return sum;
 
-
         /*
-         * The loop run from 0 -> n which takes n time, and 3 variables used n, sum, and i which is constant so space used
-         * is constant. 
+         * The loop run from 0 -> n which takes n time, and 3 variables used n, sum, and
+         * i which is constant so space used
+         * is constant.
          * 
          * 
          * T.C -> O(N)

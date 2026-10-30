@@ -15,7 +15,7 @@ public class Practice_1 {
 
     }
 
-    // Function to count numbers
+    // + Function to count numbers
     public static int countNumbers(int num) {
 
         if (num == 0)
@@ -31,7 +31,7 @@ public class Practice_1 {
         return count;
     }
 
-    // Function to check if the number is pallindrome or not
+    // + Function to check if the number is pallindrome or not
     public static boolean isPalindrome(int num) {
 
         if (num < 0)
@@ -48,7 +48,7 @@ public class Practice_1 {
         return num == ans;
     }
 
-    // Function to reverse a signed 32-bit integer number
+    // + Function to reverse a signed 32-bit integer number
     public static int reverse(int num) {
 
         long ans = 0;
