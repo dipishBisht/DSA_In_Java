@@ -43,6 +43,16 @@ public class Practice_1 {
         }
 
         return store;
+
+        /*
+         * The loops run from 0 -> n (arr.length), and for space we only used constant
+         * variables.
+         * 
+         * So,
+         * 
+         * T.C -> O(N)
+         * S.C -> O(1)
+         */
     }
 
     // + Enhanced version of previous question
@@ -61,22 +71,44 @@ public class Practice_1 {
         }
 
         return store;
+
+        /*
+         * The loops run from 0 -> n (arr.length), and for space we only used constant
+         * variables.
+         * 
+         * So,
+         * 
+         * T.C -> O(N)
+         * S.C -> O(1)
+         */
     }
 
     // + Function to move zeroes to end
     public static void moveZeroesToEnd(int[] arr) {
 
-        // ? T.C -> O(N2)
+        for (int i = 0; i < arr.length; i++) {
+            for (int j = 0; j < arr.length - 1; j++) {
+                if (arr[j] == 0) {
+                    arr[j] = arr[j + 1];
+                    arr[j + 1] = 0;
+                }
+            }
+        }
+
         /*
-         * for (int i = 0; i < arr.length; i++) {
-         * for (int j = 0; j < arr.length - 1; j++) {
-         * if (arr[j] == 0) {
-         * arr[j] = arr[j + 1];
-         * arr[j + 1] = 0;
-         * }
-         * }
-         * }
+         * There are 2 loops running inside each other till n (arr.length), and for
+         * extra space, we have user some variables
+         * 
+         * So,
+         * 
+         * T.C -> O(N2)
+         * S.C -> O(1)
          */
+
+    }
+
+    // + Better way of, Function to move zeroes to end
+    public static void moveZeroesToEnd2(int[] arr) {
 
         int track = 0;
         for (int i = 0; i < arr.length; i++) {
@@ -87,6 +119,16 @@ public class Practice_1 {
                 arr[track++] = temp;
             }
         }
+
+        /*
+         * Here, there is only a single loop from 0 -> n, and for space we have used
+         * only variables.
+         * 
+         * So,
+         * 
+         * T.C -> O(N)
+         * S.C -> O(1)
+         */
     }
 
 }
