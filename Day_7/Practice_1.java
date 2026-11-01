@@ -17,7 +17,7 @@ public class Practice_1 {
          */
 
         int[] prices = { 7, 1, 5, 3, 6, 4 };
-        int profit=maxProfit(prices);
+        int profit = maxProfit(prices);
         System.out.println(profit);
 
     }
@@ -80,15 +80,15 @@ public class Practice_1 {
     // + Function to find best time to buy and sell a stock
     public static int maxProfit(int[] prices) {
 
-        int minVal = prices[0], maxProfit=0;
+        int minVal = prices[0], maxProfit = 0;
 
         for (int i = 1; i < prices.length; i++) {
             if (minVal > prices[i]) {
                 minVal = prices[i];
             }
 
-            int profit = prices[i]-minVal;
-            maxProfit=Math.max(maxProfit, profit);
+            int profit = prices[i] - minVal;
+            maxProfit = Math.max(maxProfit, profit);
         }
 
         return maxProfit;
