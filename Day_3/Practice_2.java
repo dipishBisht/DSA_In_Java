@@ -71,9 +71,9 @@ public class Practice_2 {
     }
 
     static public void pattern_7(int n) {
-        for (int i = 0; i < n; i++) {               // *
-            for (int j = 0; j < n - i - 1; j++) {   // * *
-                System.out.print("  ");             // * * *
+        for (int i = 0; i < n; i++) {               //       *
+            for (int j = 0; j < n - i - 1; j++) {   //     * *
+                System.out.print("  ");             //   * * *
             }                                       // * * * *
             for (int k = 0; k < i + 1; k++) {
                 System.out.print("* ");

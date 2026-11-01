@@ -11,7 +11,7 @@ Practiced questions based on:
 
 ## 🧩 Questions Solved
 
-1. Count number.
+1. Count digit of a number.
 2. Find if the number is palindrome or not. (https://leetcode.com/problems/palindrome-number/description/)
 3. Reverse a signed 32-bit number. (https://leetcode.com/problems/reverse-integer/description/)
 

@@ -15,7 +15,7 @@ public class Practice_1 {
 
     }
 
-    // + Function to count numbers
+    // + Function to count digit of a numbers
     public static int countNumbers(int num) {
 
         if (num == 0)
