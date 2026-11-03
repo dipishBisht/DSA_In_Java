@@ -6,19 +6,20 @@ My journey of learning and practicing **Data Structures and Algorithms using Jav
 
 | Day | Topics | Questions Solved |
 |-----|--------|------------------|
-| [Day 1](./Day-1/README.md) | Java Basics, Functions, If-Else | 3 |
-| [Day 2](./Day-2/README.md) | Loops, Arrays | 6 |
-| [Day 3](./Day-3/README.md) | Nested Loop, Patterns  | 10 |
-| [Day 4](./Day-4/README.md) | Practice  | 3 |
-| [Day 5](./Day-5/README.md) | Time & Space Complexity and Leetcode Quesions | 2 |
-| [Day 6](./Day-6/README.md) | Leetcode Quesions | 2 |
-| [Day 7](./Day-7/README.md) | Leetcode Quesions | 2 |
-| [Day 8](./Day-8/README.md) | Leetcode Quesions | 3 |
+| [Day 1](./Day_1/README.md) | Java Basics, Functions, If-Else | 3 |
+| [Day 2](./Day_2/README.md) | Loops, Arrays | 6 |
+| [Day 3](./Day_3/README.md) | Nested Loop, Patterns  | 10 |
+| [Day 4](./Day_4/README.md) | Practice  | 3 |
+| [Day 5](./Day_5/README.md) | Time & Space Complexity and Leetcode Quesions | 2 |
+| [Day 6](./Day_6/README.md) | Leetcode Quesions | 2 |
+| [Day 7](./Day_7/README.md) | Leetcode Quesions | 2 |
+| [Day 8](./Day_8/README.md) | Leetcode Quesions | 3 |
+| [Day 9](./Day_9/README.md) | Recursion | 3 |
 
 ## 📊 Overall Progress
 
-- **Days Completed:** 8
-- **Questions Solved:** 31
+- **Days Completed:** 9
+- **Questions Solved:** 34
 - **Language:** Java
 
 ## 🗂️ Topics Covered
@@ -30,6 +31,7 @@ My journey of learning and practicing **Data Structures and Algorithms using Jav
 - Arrays
 - Nested Loop
 - Time & Space Complexity
+- Recursion
 
 ## 🎯 Goal
 
