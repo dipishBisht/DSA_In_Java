@@ -15,11 +15,12 @@ My journey of learning and practicing **Data Structures and Algorithms using Jav
 | [Day 7](./Day_7/README.md) | Leetcode Quesions | 2 |
 | [Day 8](./Day_8/README.md) | Leetcode Quesions | 3 |
 | [Day 9](./Day_9/README.md) | Recursion | 3 |
+| [Day 10](./Day_10/README.md) | Recursion | 2 |
 
 ## 📊 Overall Progress
 
-- **Days Completed:** 9
-- **Questions Solved:** 34
+- **Days Completed:** 10
+- **Questions Solved:** 36
 - **Language:** Java
 
 ## 🗂️ Topics Covered
