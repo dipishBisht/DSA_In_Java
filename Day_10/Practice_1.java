@@ -27,8 +27,7 @@ public class Practice_1 {
 
         /*
          * Here, the function powerOfTwo call itself with n/2 when its even number, and
-         * for
-         * space used is relative to n
+         * for space used is relative to n
          * 
          * So,
          * 
@@ -37,6 +36,7 @@ public class Practice_1 {
          */
     }
 
+    // + Function to find sum of first n numbers.
     public static int sumOfFirstN(int num) {
 
         if (num < 1)
